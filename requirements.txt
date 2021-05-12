@@ -1,0 +1,6 @@
+Pillow == 7.0.0
+mediapipe == 0.8.4.2
+numpy == 1.17.4
+opencv_python == 4.1.2.30
+pandas == 1.2.4
+sklearn == 0.0
