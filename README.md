@@ -1,1 +1,1 @@
-# Emotion-Detector-with-MediaPipe
+# Emotion-Detection-with-MediaPipe
